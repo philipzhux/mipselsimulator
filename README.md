@@ -1,5 +1,5 @@
 # Mipsel Simulator
-A year-two course project of Computer Architecture (CSC3050) at CUHK-Shenzhen.  
+A year-two course project of Computer Architecture (CSC3050) at CUHK.  
 
 This is a project of assembler and simulator combined, specifc for assembly language based on MIPS little-endian architecture.
 The project assemble the codes, simulate the main memory with a 6MB dynamically allocated memory and execute the machine codes. 
